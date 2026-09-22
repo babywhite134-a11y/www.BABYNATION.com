@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music Studio",
+  "description": "Interactive Web Audio music workstation with polyphonic synth, 16-step beatmaker, real-time oscilloscope visualizer, chord arpeggiator, and AI groove copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
